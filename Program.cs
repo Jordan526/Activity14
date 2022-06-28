@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace Activity14___2
 {
+    //CST150_OC2.
     internal static class Program
     {
         /// <summary>
