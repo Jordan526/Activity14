@@ -1,5 +1,6 @@
 ﻿namespace Activity14___2
 {
+     //CST150_OC2.
     partial class Form1
     {
         /// <summary>
