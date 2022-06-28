@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Activity14___2
 {
+    //CST150_OC2.
     public partial class Form1 : Form
     {
         public Form1()
